@@ -1,0 +1,178 @@
+@font-face {
+    font-family: Inter;
+    src: url(../assets/fonts/Inter-Regular.ttf);
+}
+
+body {
+
+    font-family: Inter;
+}
+
+main {
+    width: 1440px;
+    margin: auto;
+}
+
+header {
+
+    margin-top: 60px;
+}
+
+.titles {
+    font-weight: 600;
+    font-style: bold;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.meet {
+
+    color: #282828;
+    margin-top: 20px;
+    font-size: 54px;
+    font-style: bold;
+    font-weight: 600;
+    line-height: 62p;
+    text-align: center;
+}
+
+.intro {
+    color: #5F6980;
+    text-align: center;
+    display: inline-block;
+    width: 700px;
+    font-size: 20px;
+    margin-top: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    font-style: normal;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    justify-items:center;
+
+}
+
+.box {
+
+    margin-top: 48px;
+    height: 430px;
+    width: 310px;
+    border: 1px dotted #EAECF0;
+
+}
+
+.img1 .img2 .img3 .img4 {
+    background-color: #FFFFFF;
+    border: dotted #EAECF0;
+    
+
+}
+.title {
+    font-weight: 600;
+    font-style: bold;
+    font-size: 16px;
+    line-height: 30px;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.occupation {
+
+    margin-top: 3px;
+    font-style: normal;
+    font-size: 14px;
+    margin-left: 10px;
+    Line-height: 22px;
+    color: #3E3E59;
+
+}
+
+.desc  {
+
+    font-style: normal;
+    font-size: 14px;
+    line-height: 22px;
+    margin-left: 5px;
+    margin-top: 10px;
+    color: #5F6980;
+}
+
+.icons {
+
+    margin-top: 20px;
+    padding: 1px 10px;
+    justify-content: space-between;
+}
+
+.ending {
+    background-color: rgba(83, 83, 83, 0.33);
+    width: 1452px;
+    height: 512px;
+    margin: auto;
+    margin-top: 48px;
+    display: flex;
+}
+
+.logo {
+    
+    width: 100px;
+    height: 64px;
+    margin-top: 120px;
+    margin-left: 108px;
+}
+
+.ipsum {
+
+    font-size: 14px;
+    line-height: 17px;
+    width: 307px;
+    margin-top: 32px;
+    color: #535353;
+
+}
+
+.iconss {
+
+    margin-top: 30px;
+    line-height: 17px;
+}
+
+footer .titles {
+    margin-top: 120px;
+    margin-left: 200px;
+    line-height: 24px;
+    text-align: left;
+}
+
+span {
+    display: block;
+    margin-left: 200px;
+    margin-top: 70px;
+    /* line-height: 50px; */
+    width: 151px;
+}
+
+button {
+    background-color: #054A68;
+    margin-top: 70px;
+    margin-left: 200px;
+    width: 80px;
+    height: 45px;
+}
+
+.Eng {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+
+.Theend {
+
+    margin-left: 150px;
+    display: flex;
+}
